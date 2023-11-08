@@ -1,5 +1,5 @@
 # DGU-MLDL
-![Uploading image.png…]()
+
 This data is based on the data from a myoelectric sensor, known as MYO. MYO has eight sensors arranged to measure the movement generated in the muscles beneath the attached surface.
 
 Each line in the data set contains values for all eight sensors, and since each sensor has eight values, it consists of 64 columns.
