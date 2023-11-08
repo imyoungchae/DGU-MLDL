@@ -1,6 +1,7 @@
 # DGU-MLDL
 
-<img width="638" alt="스크린샷 2023-11-08 151811" src="https://github.com/imyoungchae/DGU-MLDL/assets/87971802/4ed6def8-bfc4-41b9-bb02-5a608b8395eb">
+<img width="638" alt="스크린샷 2023-11-08 151811" src="https://github.com/imyoungchae/DGU-MLDL/assets/87971802/0cef5ca7-276b-4c46-8f5f-7d468f27a4c2">
+
 
 This data is based on the data from a myoelectric sensor, known as MYO. MYO has eight sensors arranged to measure the movement generated in the muscles beneath the attached surface.
 
